@@ -1,0 +1,98 @@
+{
+  "typeface": {
+    "family": {
+      "primary": { "value": "Atkinson Hyperlegible Next" },
+      "secondary": { "value": "Atkinson Hyperlegible Next" },
+      "fallback-latin": { "value": "Arial" },
+      "fallback-non-latin": { "value": "Noto Sans" },
+      "weight": {
+        "100": { "value": "Thin" },
+        "200": { "value": "ExtraLight" },
+        "300": { "value": "Light" },
+        "400": { "value": "Regular" },
+        "500": { "value": "Medium" },
+        "600": { "value": "SemiBold" },
+        "700": { "value": "Bold" },
+        "800": { "value": "ExtraBold" },
+        "900": { "value": "Black" }
+      }
+    },
+    "digital": {
+      "font": {
+        "family": {
+          "page-title": { "value": "{typeface.family.primary.value}" },
+          "heading-1": { "value": "{typeface.family.primary.value}" },
+          "heading-2": { "value": "{typeface.family.primary.value}" },
+          "heading-3": { "value": "{typeface.family.primary.value}" },
+          "heading-4": { "value": "{typeface.family.primary.value}" },
+          "heading-5": { "value": "{typeface.family.primary.value}" },
+          "heading-6": { "value": "{typeface.family.primary.value}" },
+          "body-text": { "value": "{typeface.family.secondary.value}" },
+          "large-text": { "value": "{typeface.family.primary.value}" },
+          "leader-text": { "value": "{typeface.family.secondary.value}" },
+          "link-text": { "value": "{typeface.family.secondary.value}" },
+          "subtitle-text": { "value": "{typeface.family.primary.value}" },
+          "small-text": { "value": "{typeface.family.primary.value}" }
+        },
+        "size": {
+          "page-title": { "value": "80px" },
+          "heading-2": { "value": "56px" },
+          "heading-3": { "value": "40px" },
+          "heading-4": { "value": "28px" },
+          "heading-5": { "value": "24px" },
+          "heading-6": { "value": "20px" },
+          "body-text": { "value": "20px" },
+          "large-text": { "value": "60px" },
+          "leader-text": { "value": "24px" },
+          "link-text": { "value": "16px" },
+          "subtitle-text": { "value": "16px" },
+          "small-text": { "value": "16px" }
+        },
+        "weight": {
+          "page-title": { "value": "{typeface.family.weight.400.value}" },
+          "heading-1": { "value": "{typeface.family.weight.400.value}" },
+          "heading-2": { "value": "{typeface.family.weight.400.value}" },
+          "heading-3": { "value": "{typeface.family.weight.400.value}" },
+          "heading-4": { "value": "{typeface.family.weight.600.value}" },
+          "heading-5": { "value": "{typeface.family.weight.500.value}" },
+          "heading-6": { "value": "{typeface.family.weight.300.value}" },
+          "body-text": { "value": "{typeface.family.weight.400.value}" },
+          "body-text-bold": { "value": "{typeface.family.weight.700.value}" },
+          "large-text": { "value": "{typeface.family.weight.400.value}" },
+          "leader-text": { "value": "{typeface.family.weight.400.value}" },
+          "link-text": { "value": "{typeface.family.weight.400.value}" },
+          "subtitle-text": { "value": "{typeface.family.weight.500.value}" },
+          "small-text": { "value": "{typeface.family.weight.400.value}" }
+        }
+      },
+      "line-height": {
+        "page-title": { "value": "88px" },
+        "heading-2": { "value": "60px" },
+        "heading-3": { "value": "48px" },
+        "heading-4": { "value": "36px" },
+        "heading-5": { "value": "36px" },
+        "heading-6": { "value": "28px" },
+        "body-text": { "value": "28px" },
+        "large-text": { "value": "72px" },
+        "leader-text": { "value": "45.72800064086914px" },
+        "link-text": { "value": "28px" },
+        "subtitle-text": { "value": "28px" },
+        "small-text": { "value": "20px" }
+      },
+      "letter-spacing": {
+        "page-title": { "value": "-0.5px" },
+        "heading-2": { "value": "0px" },
+        "heading-3": { "value": "0px" },
+        "heading-4": { "value": "0px" },
+        "heading-5": { "value": "0px" },
+        "heading-6": { "value": "0px" },
+        "body-text": { "value": "0px" },
+        "large-text": { "value": "0px" },
+        "leader-text": { "value": "0px" },
+        "link-text": { "value": "0px" },
+        "subtitle-text": { "value": "1px" },
+        "small-text": { "value": "0px" }
+      }
+    }
+  }
+}
